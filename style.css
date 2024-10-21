@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif; /* Fonte moderna */
+    background-color: #f4f4f9; /* Cor de fundo suave */
+    color: #333; /* Cor do texto */
+    line-height: 1.6; /* Altura da linha para melhor legibilidade */
+    text-align: center; /* Alinhamento central do texto */
+    padding: 20px; /* Espaçamento interno */
+}
+
+p {
+    font-size: 1.2rem; /* Tamanho da fonte */
+    margin-bottom: 1.5rem; /* Espaçamento entre parágrafos */
+}
+
+/* Estilos específicos para o elemento span */
+.saudacao {
+    font-weight: bold; /* Negrito para a saudação */
+}
+
+.code {
+    background-color: #e0e0e0; /* Fundo cinza claro para destaque */
+    padding: 2px 4px; /* Espaçamento ao redor do texto */
+    border-radius: 4px; /* Bordas arredondadas */
+    font-family: 'Courier New', monospace; /* Fonte monoespaçada para código */
+}
