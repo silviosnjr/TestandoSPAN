@@ -12,11 +12,6 @@ p {
     margin-bottom: 1.5rem; /* Espaçamento entre parágrafos */
 }
 
-/* Estilos específicos para o elemento span */
-.saudacao {
-    font-weight: bold; /* Negrito para a saudação */
-}
-
 .code {
     background-color: #e0e0e0; /* Fundo cinza claro para destaque */
     padding: 2px 4px; /* Espaçamento ao redor do texto */
